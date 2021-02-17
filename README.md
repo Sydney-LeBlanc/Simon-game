@@ -1,3 +1,4 @@
 # Simon-game
 
-A simple game to practice using jQuery and Javascript to solve problems and create an interactive, playable game
+A simple game to practice using jQuery and Javascript to solve problems using functions, methods and understanding of the DOM.
+
